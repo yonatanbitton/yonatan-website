@@ -30,8 +30,7 @@ experience:
     date_start: '2019-10-22'
     date_end: ''
     description: |2-
-        Researcher in Halo team - Visual Fitness
-        
+        Researcher in Halo team - Visual Fitness  
         Working on video classication problems, using state of the art computer vision methods
         
   - title: Research Student
