@@ -54,6 +54,6 @@ image:
 date: 2021-03-17T16:17:07.654Z
 url_slides: ""
 publishDate: 2021-03-17T16:17:07.654Z
-url_poster: "https://github.com/yonatanbitton/automatic_generation_of_contrast_sets_from_scene_graphs/raw/main/contrast_sets_poster.pdf"
+url_poster: "uploads/contrast_sets_poster.pdf"
 url_code: "https://github.com/yonatanbitton/automatic_generation_of_contrast_sets_from_scene_graphs"
 ---
