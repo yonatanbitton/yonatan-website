@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 110
 
 title: Experience
 subtitle:
@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Applied Scientist Intern
+    company: Amazon Lab126
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: amazon-icon
+    location: Israel
+    date_start: '2019-10-22'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Researcher in Halo team - Visual Fitness
         
-        * Analysing
-        * Modelling
-        * Deploying
+        Working on video classication problems, using state of the art computer vision methods
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Student
+    company: IBM Cyber Security Center of Excellence
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ibm-icon
+    location: Israel
+    date_start: '2017-07-01'
+    date_end: '2019-10-21'
+    description: Using data-science and machine-learning methods in order to
+      detect frauds
 
 design:
   columns: '2'
