@@ -42,6 +42,6 @@ I am a PhD candidate in [The Hebrew University of Jeruslaem, Israel](http://www.
 
 The goal of my research is to improve vision and language generalization. Specifically, I aim to develop models with better compositionality abilities, less biased and better perform on real-world examples. See my publications for more details. 
 
-I did my MSc with [Prof. Michael Elhadad](http://www.cs.bgu.ac.il/~elhadad) and [Prof. Eitan Bachmat](www.cs.bgu.ac.il/~ebachmat/), at the Ben Gurion University.
+I did my MSc with [Prof. Michael Elhadad](http://www.cs.bgu.ac.il/~elhadad) and [Prof. Eitan Bachmat](http://www.cs.bgu.ac.il/~ebachmat/), at the Ben Gurion University.
 
 {{< icon name="download" pack="fas" >}} Download my complete {{< staticref "uploads/cv_uni_phd.pdf" "newtab" >}}CV{{< /staticref >}}.
